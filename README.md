@@ -1,1 +1,2 @@
-# Halifax-Foodie-Serverless-Project-
+# CSCI-5410-porject-group23
+
